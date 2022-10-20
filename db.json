@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "id": 0.2660420092629183,
+      "email": "sarik.j2445@gmail.com",
+      "name": "Sardor",
+      "surname": "djurakulov",
+      "password": "1234"
+    },
+    {
+      "id": 0.9735794835056586,
+      "email": "nefor@gmail.com",
+      "name": "nefor",
+      "surname": "neforov",
+      "password": "1234"
+    }
+  ],
+  "cards": [
+    {
+      "userid": 0.2660420092629183,
+      "id": 1,
+      "name": "VISA",
+      "currency": "euro",
+      "total": 2000,
+      "pincode": 7777
+    },
+    {
+      "userid": 0.2660420092629183,
+      "id": 1,
+      "name": "HUMO",
+      "currency": "UZS",
+      "total": 2000,
+      "pincode": 7777
+    },
+    {
+      "userid": 0.2660420092629183,
+      "id": 1,
+      "name": "MASTER CARD",
+      "currency": "USD",
+      "total": 2000,
+      "pincode": 7777
+    },
+    {
+      "userid": 0.2660420092629183,
+      "id": 1,
+      "name": "NEFOR",
+      "currency": "nefor coin",
+      "total": 2000,
+      "pincode": 7777
+    },
+    {
+      "userid": 0.9735794835056586,
+      "id": 1,
+      "name": "VISA",
+      "currency": "euro",
+      "total": 2000,
+      "pincode": 7777
+    },
+    {
+      "userid": 0.9735794835056586,
+      "id": 1,
+      "name": "HUMO",
+      "currency": "UZS",
+      "total": 2000,
+      "pincode": 7777
+    }
+  ],
+  "transactions": []
+}
